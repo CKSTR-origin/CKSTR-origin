@@ -1,0 +1,13 @@
+#Excluded files
+*.env
+*.var
+*.log
+*.tmp
+.DS_Store
+
+#Excluded folders
+node_modules/
+build/
+.next/
+log/
+test/
